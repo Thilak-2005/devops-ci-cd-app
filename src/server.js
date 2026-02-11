@@ -8,7 +8,7 @@ const ENV = process.env.NODE_ENV || "development";
 
 app.get("/", (req, res) => {
   res.json({
-    message: "🚀 DevOps CI/CD Application Running Successfully!",
+    message: "🚀 This would be done after the implemtenation of the CICd pipline.DevOps CI/CD Application Running Successfully!",
     environment: ENV,
     hostname: os.hostname(),
     timestamp: new Date(),

@@ -1,7 +1,7 @@
 {
   "name": "devops-ci-cd-app",
   "version": "1.0.0",
-  "description": "Production-ready Node.js app for DevOps CI/CD deployment",
+  "description": " This is the modifed after the cicd is implemented.Production-ready Node.js app for DevOps CI/CD deployment",
   "main": "src/server.js",
   "scripts": {
     "start": "node src/server.js"
