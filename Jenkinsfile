@@ -10,11 +10,7 @@ pipeline {
 
     stages {
 
-        stage('Clone Code') {
-            steps {
-                git 'https://github.com/Thilak-2005/devops-ci-cd-app.git'
-            }
-        }
+        
 
         stage('Build Docker Image') {
             steps {
