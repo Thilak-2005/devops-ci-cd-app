@@ -1,0 +1,14 @@
+{
+  "name": "devops-ci-cd-app",
+  "version": "1.0.0",
+  "description": "Production-ready Node.js app for DevOps CI/CD deployment",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "author": "Thilak",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
