@@ -15,10 +15,10 @@ Whenever code is pushed to GitHub, Jenkins automatically builds a Docker image a
 
 # 🏗️ Architecture Overview
 
-![](ArChitecture(2).png).
+![](ArChitecture.png)
 
 ## 🔹 Terraform Infrastructure Code
-![](terraformcode.png)
+
 
 Terraform is used to provision AWS infrastructure like EC2 and Security Groups.
 
