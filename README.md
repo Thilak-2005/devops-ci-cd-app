@@ -15,6 +15,8 @@ Whenever code is pushed to GitHub, Jenkins automatically builds a Docker image a
 
 # 🏗️ Architecture Overview
 
+![](ArChitecture(2).png).
+
 ## 🔹 Terraform Infrastructure Code
 ![](terraformcode.png)
 
